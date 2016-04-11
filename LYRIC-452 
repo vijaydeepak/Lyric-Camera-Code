@@ -1,0 +1,7 @@
+Scope : Show multiple devices in Nav Panel
+Description : As a user I wish to see the option to add camera in the global drawer of the Lyric App (along side stat, WLD, other devices) + if there are multiple cameras in a location they should be shown accordingly.
+
+Case 1: Verify on Adding Camera When user login into the app , User should be navigated to Home Page with camera icon is displayed
+Case 2: Verify ,If users has multiple cameras added with Single location , When user logs into the app , User should be navigated to home page with multiple camera icon should be displayed with camera name 
+Case 3: Verify , If User has multiple Solution (Honeybagder,Camera,Jasper) with Single location,When user logs into the app , User should be navigated to home page with Appropriate solution icon should be displayed with name
+Case 4: Verify , If user has multiple solution with Multiple Location , When user logs into the app , User should be navigated to home page with Primary Location and Appropriate solution icon associated with it.

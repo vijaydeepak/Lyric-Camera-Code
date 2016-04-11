@@ -1,0 +1,7 @@
+Scope : Choose a location & add camera to it
+Description : As a user I want to have the flexibility to add a camera to an already created location (e.g. I have a Lyric account and have a T-stat installed; I need to have the flexibility to add a camera to that location).
+
+Case 1 : Verify if user can add new Camera to existing location 
+Case 2 : Verify if user can duplicate by adding existing camera to the different location, expected : an error message should be displayed 
+Case 3 : Verify if Camera and location name remains same will not change on invited user  
+Case 4 : 

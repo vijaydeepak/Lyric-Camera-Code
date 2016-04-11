@@ -1,0 +1,11 @@
+Scope : Multiple Users can see Stream
+Description : "As a user, I need to have the flexibility that multiple added Lyric users to the account should be allowed to live stream simultaneously.
+QUESTION: IS THERE A LIMIT? PROD MGMT IS OK WITH 5."
+
+
+Case 1: Verify if single User can live stream when one or more users have added to the account and have camera accessibility.
+Case 2: Verify if multiple Users(Less than 5) can Live streaming an single camera 
+Case 3: Verify When the 6th user streams the live video, an appropriate error code must be sent to indicate that the limit has been exceeded.
+Case 4: Verify When user from the pool exists live streaming , Queue User should be able to live stream
+Case 5: Verify if Single user can  live stream from multiple Devices (Mobile Devices) 
+Case 6: Verify an appropriate error code is sent to indicate that the limit has been exceeded.when single user live streams on more than 5 devices

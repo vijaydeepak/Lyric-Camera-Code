@@ -1,0 +1,6 @@
+Scope : Create / Add a Location
+Description : As a user I want to have the flexibility to create and add location into my Lyric account, so that I can add devices accordingly.
+
+Case 1: Verify if User can create new Lyric Account 
+Case 2: Verify if User can create an account with existing lyric credential (Account Duplication)
+Case 3: Verify On Creating New Lyric Account User is displayed with add Device as landing page
